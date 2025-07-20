@@ -1,0 +1,6 @@
+# 🔮 Ignorar carpetas rituales temporales
+__pycache__/
+.env
+node_modules/
+*.svg
+rituales/logs/
